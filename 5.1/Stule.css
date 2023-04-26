@@ -1,0 +1,17 @@
+
+#pink>ol>Li:nth-child(even){
+    color: pink;
+}
+#fone>ol>li:nth-child(odd){
+    font-size: 22px;
+}
+#after>ol>li:after (2n+4) {
+    content: '!' ;
+}
+#Fiol>ol>li:last-child{
+    color: darkviolet;
+}
+#Srift>ol>li:first-letter{
+    font-size: 30px;
+    color: red;
+}
